@@ -1,5 +1,4 @@
 # pattern_language_data_analysis
-data analysis on pattern languages
 
 The purpose of this analysis is to explore the pattern language data.
 The pattern data is the result of analyzing the patterns present and their relationships to one another in 100 applied behavioral science cases.
@@ -10,13 +9,13 @@ the use of patterns as problems become more difficult, and
 the relationships of applying patterns in practice.
 
 The data analysis results in: 
-total occuences of patterns across cases
-the scale at which patterns exist (individual, community, systems)
-a linear regression of total patterns used in a case relative to the difficulty of the problem at hand
-a graph (i.e., network) of complementary relationships between patterns
-a graph of interchangeable relationships between patterns
+- total occuences of patterns across cases
+- the scale at which patterns exist (individual, community, systems)
+- a linear regression of total patterns used in a case relative to the difficulty of the problem at hand
+- a graph (i.e., network) of complementary relationships between patterns
+- a graph of interchangeable relationships between patterns
 
-Files inputted: 
+# A detail of the files inputted and their meanings
 
 Occurences.csv
 Column names include: [Case, Pattern 1, Pattern 2, ..., Patern n]
