@@ -15,7 +15,7 @@ The data analysis results in:
 - a graph (i.e., network) of complementary relationships between patterns
 - a graph of interchangeable relationships between patterns
 
-# A detail of the files inputted and their meanings
+# A detail of the files input and their meanings
 
 Occurences.csv
 Column names include: [Case, Pattern 1, Pattern 2, ..., Patern n]
