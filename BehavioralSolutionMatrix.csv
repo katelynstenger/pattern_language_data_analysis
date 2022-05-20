@@ -1,0 +1,395 @@
+Design #,Case,Problem Framing - Relevant behaviors,Problem Framing - Target Outcome,Change Demand - Novelty,Change Demand - Scope,Change Demand - Frequency,Behavioral Constraints - Environmental Opportunity,Behavioral Constraints - Social opportunity,Behavioral Constraints - Technical Opportunity - Object,Behavioral Constraints - Technical Opportunity - Tool,Change Demand (total),Change Demand (high / low),Behavioral Constraint (total),Behavioral Constraint (high / low),Solution Principles,Solution - Mode of Delivery,Effect of design?,Rationale - Mechanism of Action,Use When - Population engagement,Use When - Contextual Cues,Use When - Areas of Application,Notes on Choice Infrastructure,Evoke emotions,Impose expectations,Set standards,Enhance commitment,Help construct self-image,Provide reward,Provide punishment,Set goals,Provide guidance,Provide feedback,Practice behavior,Present possible consequences,Prime users,Use triggers,Tell or show what others do,Consider messenger,Validate action,Present info figuratively,Make it salient,Require Action,Selectively present choices,Make it simple,Divert Action,SUM of Principles
+1,2,Not enough adoption of opportunity (rebate for energy efficient upgrades); also misconceptions (about applicability),Individual: Increase response rate of business owners,1,0,0,1,1,0,0,1,LOW,2,HIGH,"Comparison of outcomes - credible source;
+Tell or show what others do;
+Make it salient;
+
+(intervention business style letter effect was 81% more responses than control)",Information - printed; Individual based; Push; ,Better,"Knowledge; 
+memory, attention, and decision processes",low,owners skeptical of adoption of retrofitting and the benefits of the rebate,better equipment; adoption; energy efficiency,Contractor has barrier of applications being onerous; never mentioned completed rebates or applications sent to government; may have missed the strategic mark tbh,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2
+2,2,Not enough adoption of opportunity (rebate for energy efficient upgrades); also misconceptions (about applicability),Individual: Increase response rate of business owners,1,0,0,1,1,0,0,1,LOW,2,HIGH,"Present possible consequences;
+Provide guidance;
+
+(postcard; effect was 50% LESS responses than control)",Information: printed material; Individual based; Push,Worse,"Knowledge; 
+Memory, attention, and decision processes",low,owners skeptical of adoption of retrofitting and the benefits of the rebate,better equipment; adoption; energy efficiency,Contractor has barrier of applications being onerous; never mentioned completed rebates or applications sent to government; may have missed the strategic mark tbh,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+3,12,decrease consumption of electricity at household level during peak hours; lots of energy demand during peak hours,Individual: offset energy use during peak times from energy customers,0,1,1,1,0,0,0,2,HIGH,1,LOW,"Provide guidance;
+Use triggers;
+Provide feedback;
+Tell or show what others do;
+
+(social nudge; 3.8% reduction in electricity)",Information - Audio Informational; Uni-directional; Pull; Individual Based; (phone call),Better,"Feedback processes (2nd phone call only); 
+Norms (2nd phone call only); 
+Knowledge (1st phone call only); 
+Motivation (both calls)",low,feedback is normalized; ,energy use; household; time of day,I'm just going to say it; the US government and utility companies hold responsibility for managing and building an energy grid that supplies energy whenever customer want it; while this nudge worked it also reveals the ways the individuals are penalized and held responsible for failures and greed of corporations and lack of investment by US government; this is a governance problem - not a home-owner problem; using nudges in this way is akin to solving a systems problems with individual behavior. It probably shouldn't be approached this way and considering how to get utilities to reinvest in the infrastructure they maintain might bring more social good than norming individual households,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,4
+4,12,decrease consumption of electricity at the household level,Individual: decrease consumption of energy per household ,0,1,1,1,0,0,0,2,HIGH,1,LOW,"Provide feedback;
+Tell or show what others do;
+
+(2.1% reduction in electricity usage)",Information - printed material; Individual Based; Push,Better,"Feedback processes; 
+norms;
+Knowledge",low,feedback is normalized; reports are already used (path dependency of design),energy use; household,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+5,12,"decrease consumption of electricity at household level, particularly during peak hours",Individual: decrease consumption of energy per household ; especially during peak hours,0,1,1,1,0,0,0,2,HIGH,1,LOW,"Tell or show what others do;
+Provide feedback;
+Provide guidance;
+Use triggers;
+(6.8% reduction in electricity usage; these two approaches work well together; are additive; feedback on behavior for second phone call)","Information - printed material;
+Individual based;
+Push; Pull;
+Information - audio;
+",Better,"Feedback processes (2nd phone call and report); 
+Norms (2nd phone call and report);
+Knowledge (1st phone call and report); 
+Motivation (all interventions)",low,both,energy use; household,,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,4
+6,15,Increase volunteer retention and community in volunteering,Community: increase those volunteering for a longer time with West Java EPA,0,1,1,1,0,0,0,2,HIGH,1,LOW,"Use triggers; (text reminders); 
+Consider messenger; (sent from Head Volunteer); 
+Help construct self-image;
+Present possible consequences;
+
+(Longer, monthly messages about environmental challenges over 3 months; 58.7% of volunteers attended - no difference)","Information: text via WhatsApp; 
+Group-based ",No difference,"Knowledge; 
+Social Identity (negative consequences of environmental degradation can trigger positive environmental behaviors);
+Motivations;
+messenger effects (from leader); 
+Behavioral cueing (timely reminders)",medium,repetitive behavior; community behavior; shared understanding; shared identity; relevant or motivating work,volunteer; environmental; community,repetitive behavior; environmental problems; volunteering organization; community directed initiatives; probably should have paid support as well (or just be a government service) - but whatever;,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,4
+7,15,Increase volunteer retention and community in volunteering,Community: increase those volunteering for a longer time with EPA,0,1,1,1,0,0,0,2,HIGH,1,LOW,"Use triggers; (text reminders);
+Set goals;
+Social support (practical); 
+Help construct self-image; 
+Consider messenger; (sent from Head Volunteer)
+
+(Short, weekly messages over 3 months 60.3% of volunteers attended - no difference)","Information: text via WhatsApp; 
+Group-based ",No difference,"Knowledge;
+Social Identity (volunteer); 
+Motivations (personal growth and its benefits); 
+planning support; 
+messenger effects (from leader); 
+Behavioral cueing (timely reminders)",medium,repetitive behavior; community behavior; shared understanding; shared identity; relevant or motivating work,volunteer; environmental; community,message was in Bahasa (Indo official language);and not Sundanese (second most popular language); also could have negative effects from too many reminders (gravert's study on when reminders are reasons to opt-out),0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,4
+8,18,"Improve self-efficacy, responsibility, and awareness of flood resilience measures",Individuals: Improve the 'How to plan ahead for flooding' webpage,1,1,0,1,1,0,0,2,HIGH,2,HIGH,"Provide guidance;
+Tell or show what others do; (Social modeling which uses homeowning couple as case study of flood preventing techniques); 
+Make it salient;
+Present info figuratively; (increase salience with images and text chunked design)",Information - electronic; ,no difference,"Beliefs about capabilities (self efficacy); 
+Knowledge;
+Norms;
+Motivation",low,information seeking; flood risk; government communications,homeowner; information; governments,ran a random controll trial to test website changes; knowledge and content was more important than anything else ,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,4
+9,18,Increase engagement with EA's online content about flooding,Individuals: Increase click-through traffic to key web content from social media ads; measured engagement by click through rate and video play to completion rate,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Provide guidance;
+Present possible consequences; (local reciprocity: government and homeowners relationship in a location)",Information - electronic; social media campaigns and advertisements,Better,"Norms (reciprocity); 
+Knowledge; 
+increase salience; personalized information",low,information seeking; flood risk; government communications,homeowner; information; governments,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+10,18,Increase engagement with EA's online content about flooding,Individuals: Increase click-through traffic to key web content from social media ads; measured engagement by click through rate and video play to completion rate,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Provide guidance;
+Help construct self-image;
+Present possible consequences;
+
+ (location risk) had mixed effects",Information - electronic; social media campaigns and advertisements,Mixed effect,"Knowledge; 
+Perceived Susceptibility (increase salience to location risk); 
+leverages loss aversion; 
+Social Role (as homeowner);
+personalized information",low,information seeking; flood risk; government communications,homeowner; information; governments,,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3
+11,18,"Improve engagement with, and usefulness of, flood plans","Individuals: Improve engagement with, and usefulness of, flood plans; measured by self-reported usefulness",1,1,0,1,1,0,0,2,HIGH,2,HIGH,"Set goals; (flood plan); 
+Provide guidance;
+Make it simple; (reduce number of actions required and broke steps into manageable action);
+Present info figuratively; (increase salience with text chunked design);
+Make it salient;
+",Information - electronic; Environmental Change,Better,"Memory, attention, decision processes (Challenges choice overload)
+Knowledge;
+Social Role (as homeowner)",medium,planning; information seeking; government communications; agency (homeowners),homeowner; information; governments,planning is an interesting context; scored a medium engagement because of planning activity; glad they tested out future thinking and planning; designs were interesting; sharing that flood risk is both government and homeowner responsibility felt sensible,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,5
+12,18,"Improve engagement with, and usefulness of, flood plans","Individuals: Improve engagement with, and usefulness of, flood plans; measured by self-reported usefulness",1,1,0,1,1,0,0,2,HIGH,2,HIGH,"Set goals; (flood plan); 
+Make it simple; (reduce number of actions required and broke steps into manageable action); 
+Provide guidance; (Supplied justifications for each step)
+Present info figuratively; (increase salience with text chunked design)",Information - electronic; Environmental Change,Better,"Perceived susceptibility; 
+Knowledge;
+Skills; 
+Social Role (as homeowner)",medium,planning; information seeking; government communications; agency (homeowners),homeowner; information; governments,,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,4
+13,18,"Improve engagement with, and usefulness of, flood plans","Individuals: Improve engagement with, and usefulness of, flood plans; measured by self-reported usefulness",1,1,0,1,1,0,0,2,HIGH,2,HIGH,"Set goals; (flood plan); 
+Make it simple; (reduce number of actions required and broke steps into manageable action); 
+Provide guidance; (justications);
+Present info figuratively; (increase salience with images and text chunked design);
+Make it salient;",Information - electronic; Environmental Change,Better,"Perceived susceptibility; 
+Knowledge;
+Social Role (as homeowner)",medium,planning; information seeking; government communications; agency (homeowners),homeowner; information; governments,,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,5
+14,18,"Improve engagement with, and usefulness of, flood plans","Individuals: Improve engagement with, and usefulness of, flood plans; measured by self-reported usefulness",1,1,0,1,1,0,0,2,HIGH,2,HIGH,"Set goals; (flood plan); 
+Require action; (future thinking activity);
+Present possible consequences;
+Providing guidance; (providing info about flooding and plans); 
+
+(highest rates of downloading the plan)",Information - electronic; Environmental Change; Interactional,Better,"Perceived susceptibility; 
+Goals; 
+Motivation;
+Knowledge; (Challenges Present Bias)",medium,planning; information seeking; government communications; agency (homeowners),homeowner; information; governments,,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,3
+15,22,"Gum chewers sometimes drop their gum outside of the bin; this happens at different locations (public transport & travel, cut throughs, shopping trips, food on the go, nightlight hot spots, and far bin journeys)",Community: Reduce the gum littering in a community,0,0,1,0,1,0,0,1,LOW,1,LOW,"Present possible consequences; (gum on shoe);
+Make it salient; (sign pointing to a bin);
+Use triggers;
+Present info figuratively;
+Divert action;
+
+Reduced gum litter by 60%;
+
+",Environmental Change (posters and banners in public spaces),Better,"Social norms;
+Emotion;
+Behavioral cueing (salience and reminders);
+",high,public space; littering; campaigns; visual information in environments,governments; littering,"study took place over 3 years and deployed for a total of 5 years; engaged with local stakeholders like residents, local policy makers, and urban designers",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,1,5
+16,35,Water users must apply for a groundwater licence by a certain time; if not they may lose access and could be fined,Individuals: Encourage application from rural business owners who use groundwaters,1,0,0,1,1,0,0,1,LOW,2,HIGH,"Personalized 
+Make it salient;
+Provide guidance;
+Provide reward;
+Present possible consequences; 
+Evoke emotion;
+(gain framing on what businesses gain by having a licence; resulted in 2.2x more applications than control)",Information - printed; Mailed,Better,"Knowledge;
+Beliefs about consequences;
+Perceived Susceptibility;
+Motivation",low,low knowledge about application; rural (decentralized population); legal requirement,governments; applications; licences,this study is pretty good at targeting middle-tier decision-makers; I assume business owners have a bit more consumption of water and might be fined by the government; also the prevalence of folks who don't know they need to apply - suggest the government might never have fined many in the first place. ,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,5
+17,35,Water users must apply for a groundwater licence by a certain time; if not they may lose access and could be fined,Individual: Encourage application from rural business owners who use groundwaters,1,0,0,1,1,0,0,1,LOW,2,HIGH,"Personalized
+Make it salient;
+Provide guidance;
+Provide punishment;
+Present possible consequences; 
+Evoke emotions;
+(loss framing emphasizing penalties and costs of not applyign for licence; resulted in 2.9x more applications than control)",Information - printed; Mailed,Better,"Knowledge;
+Beliefs about consequences;
+Perceived Susceptibility;
+Motivation",low,low knowledge about application; rural (decentralized population); legal requirement,governments; applications; licences,,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,5
+18,45,"Encourage Carpooling
+Behavioral Barriers to Deciding to Change Community Behaviors: 
+Availability Bias; Commute Impedance; Loss Aversion; Opportunity Cost Neglect; Present Bias; Status Quo Bias; Sunk Cost Bias;",Individual: encourage carpooling behavior by addressing the little information about alternative transportation (measured sign ups and usage),0,0,1,0,0,0,0,1,LOW,0,LOW,"Present possible consequences;
+Provide guidance;
+
+(provided information that highlights social benefits)
+
+",Information - electronic,unsure,"Knowledge; 
+
+Attitude towards the behavior",low,organization; institution; assumed lack of knowledge,transportation; knowledge,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+19,45,"Encourage Carpooling
+Behavioral Barriers to Deciding to Change Community Behaviors: 
+Availability Bias; Commute Impedance; Loss Aversion; Opportunity Cost Neglect; Present Bias; Status Quo Bias; Sunk Cost Bias;",Individual: encourage carpooling behavior,0,0,1,0,0,0,0,1,LOW,0,LOW,"Present possible consequences;
+Provide guidance;
+Consider messenger;
+
+(messaging from an organizational leader that highlights the often hidden benefits of the program)",Information - electronic,unsure,"Knowledge; 
+Attitude towards the behavior;
+Social Influence",low,organization; institution; assumed lack of knowledge,transportation; knowledge,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,3
+20,45,"Behavioral Barriers to Deciding to Execute Commuting Behavior Change:
+Default Bias;
+Friction Costs;
+Overconfidence Effect;
+Social Norms;
+",Individual: increase bus ridership,0,0,1,0,0,0,0,1,LOW,0,LOW,"Set goals; 
+Make it salient; (Personalized route plans)
+Provide guidance;
+Require action;",Infromation - electronic; ,better,"Goals;
+Knowledge;
+(easier for people to commute in sustainable ways)",low,bus; riding; ,transportation; ridership; plan, actual ridership behavior measured (even though self reported); buses need to be available; plans need to be acccurate,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,4
+21,46,Biking more often to and from work,encourage biking to and from work (more often),0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide feedback; (on bike riding);
+Provide guidance; (coaching);
+Set goals; (bike on Monday); 
+Tell or show what others do;
+Provide reward; (money initially to break habit; reward of points then later unexpected rewards);
+Help construct self-image;
+Validate action;
+
+(Increased bike users from 24 to 84%)","Information - electronic; (mobile app);
+Group-based; Gamification;",better,"Motivation;
+Norms;
+Reinforcement;
+Intention;
+Goals;",high,mobile app; continuous development and engagement; environment affords desired behavior,biking; app; staging interventions,"They importantly staged designs to move behavior; this is the first one of its kind! It needs to be said, Netherlands is flat, so biking is much easier; also biking infrastructure is far more advanced, accessible, and safe",0,0,0,0,1,1,0,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,7
+22,53,Time-of-Use tarrifs on energy use for individuals consumers,Individual: Enhance consumers' understanding and encourage engagement with ToU tarrifs,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Provide guidance;
+Present possible consequences;
+
+",Information - electronic; Individual based,better,Knowledge; Attitude towards the behavior; General attitudes and beliefs; ,low,low information; government ,energy; demand; consumers; communication; government; utility,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2
+23,53,Time-of-Use tarrifs on energy use for individuals consumers,Individual: Enhance consumers' understanding and encourage engagement with ToU tarrifs,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Provide guidance;
+Present possible consequences;
+Present info figuratively;
+Consider messenger;
+Prime users; (logos of Irish energy authorities)",Information - electronic; Individual based,better,Knowledge; Attitude towards the behavior; General attitudes and beliefs; ,low,low information; consumers; governments;,energy; demand; consumers; communication; government; utility,,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,5
+24,53,Time-of-Use tarrifs on energy use for individuals consumers,Individual: Enhance consumers' understanding and encourage engagement with ToU tarrifs,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Present info figuratively; (Changed framing from money before environmental reasoning and vice versa)
+Provide gudiance;
+Present possible consequences;
+Prime users; 
+Consider messenger; (logos of Irish energy authorities)",Information - electronic; Individual based,better,Knowledge; Attitude towards the behavior; General attitudes and beliefs; ,low,low information; consumers; governments;,energy; demand; consumers; communication; government; utility,,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,4
+25,53,Time-of-Use tarrifs on energy use for individuals consumers,Individual: Enhance consumers' understanding and encourage engagement with ToU tarrifs,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Present info figuratively; (Changed format);
+Provide guidance;
+Present possible consequences;
+Prime users;
+Consider messenger; (logos of Irish energy authorities)",Information - electronic; Individual based,better,Knowledge; Attitude towards the behavior; General attitudes and beliefs; ,low,low information; consumers; governments;,energy; demand; consumers; communication; government; utility,,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,5
+26,53,Time-of-Use tarrifs on energy use for individuals consumers,Individual: Enhance consumers' understanding and encourage engagement with ToU tarrifs,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Present possible consequences; (Exemplification of benefits);
+Provide reward;
+Provide guidance;
+Present info figuratively;
+Prime users;
+Consider messenger; (logos of Irish energy authorities)",Information - electronic; Individual based,better,Knowledge; Attitude towards the behavior; General attitudes and beliefs; ,low,low information; consumers; governments;,energy; demand; consumers; communication; government; utility,only about informing consumers on possible tarrifs,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0,0,6
+27,55,It can be difficult for consumers to integrate multiple sources of information into decisions; eco-labels; ,Individual; explore choosing items by differing formating and framing of eco-labels under time press,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Present info figuratively;
+Make it salient; (standardized format and color of eco-labels); ",Information - electronic; Individual based,better,"Behavioral cueing; Memory, attention, and decision processes;",low,"Quick decision-making on low-cost, continually bought goods with eco-labels;",consumers; purchasing; ecolabels; standardizing; simplification,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2
+28,59,NYC public housing; trash bags; littering,Community; Get more use of the trashcans and less litterings (25% decrease in trash bags visible; 16% decrease in littering),0,0,1,0,1,0,0,1,LOW,1,LOW,"Present info figuratively; (adding or changing disposal spots);
+Selectively present choices;
+Provide guidance; (new policy posters)",Information - Printed; Environmental Change,better,Behavioral cueing; Knowledge; ,low,community infrastructure exists; restructuring and relearning; ,residents; waste; littering,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3
+29,63,Consumers engage with circular economy on goods,Increase the preference for consumers to engage in circular economy,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Make it salient;
+
+
+(mentioned the products durability OR reparability)",Information - electronic; Individual based,better,"Memory, attention, and decision-processes",low,purchasing; communication; products,circular economy; consumer; communication; incentives,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+30,63,Consumers engage with circular economy on goods,Increase the preference for consumers to engage in circular economy,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Make it salient;
+
+
+(mentioned the products durability AND reparability)",Information - electronic; Individual based,no difference,"Memory, attention, and decision-processes",low,purchasing; communication; products,circular economy; consumer; communication; incentives,multiple stages of interviews and engagement,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+31,63,Consumers engage with circular economy on goods,Increase the preference for consumers to engage in circular economy,0,0,0,1,1,0,0,0,LOW,2,HIGH,Provide reward; (Manufacturer warranty),Information - electronic; Individual based,better,General attitudes and beliefs,low,purchasing; communication; products,circular economy; consumer; communication; incentives,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+32,63,Consumers engage with circular economy on goods,Increase the preference for consumers to engage in circular economy,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Make it salient; 
+Use triggers; (Expected lifetime label)",Information - electronic; Individual based,better,General attitudes and beliefs,low,purchasing; communication; products,circular economy; consumer; communication; incentives,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,2
+33,65,communication vehichle and ways that it might be effective for environmental messaging on business to consumers (b2c) or business to business (b2b),"test the effectiveness of communication vehicles (a PEF rating certification) for environmental communication when buying a laptop, tshirt, or milk",0,0,1,1,1,0,0,1,LOW,2,HIGH,"Consider messenger; (certification on labels; third party independent certified);
+Present possible consequences; (works best with effects on children; negative framing);
+Make it salient; (labels);
+Evoke emotions; (framing negative)","Information - electronic; 
+Environmental Change (colors and design of label);
+
+Individual-based;
+Push;",better,"Beliefs about consequences (children will be harmed);
+Emotion (negative framing);
+Knowledge;
+Consider messenger;
+
+(credibility from third-party evaluator?)",low,"purchasing goods; environmental, labels are effective",purchasing goods; europe; labels; consumers,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,4
+34,65,communication vehichle and ways that it might be effective for environmental messaging on business to consumers (b2c) or business to business (b2b),"test the effectiveness of communication vehicles (a PEF rating certification) for environmental communication when buying a laptop, tshirt, or milk",0,0,1,1,1,0,0,1,LOW,2,HIGH,"Make it salient;
+Present possible consequences; (health);
+Evoke emotions; (framing positive)
+
+(framing: pointing out positives - benefits for health)",information - electronic; individual-based; Push;,worse,"Beliefs about consequences (chilldren will benefit);
+Emotion (gain framing);
+Knowledge
+",low,"framing a label; consumption of low, medium, and high cost product (milk, tshirt, laptop)",purchasing goods; europe; labels; consumers,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3
+35,65,communication vehichle and ways that it might be effective for environmental messaging on business to consumers (b2c) or business to business (b2b),"test the effectiveness of communication vehicles (a PEF rating certification) for environmental communication when buying a laptop, tshirt, or milk",0,0,1,1,1,0,0,1,LOW,2,HIGH,"Make it salient;
+Present possible consequences; (health);
+Evoke emotions; (framing negative on children)
+
+(framing: pointing out negatives - suffering for children);",information - electronic; individual-based; Push;,better,"Beliefs about consequences (chilldren will benefit);
+Emotion (loss framing);
+Knowledge
+",low,"framing a label; consumption of low, medium, and high cost product (milk, tshirt, laptop)",purchasing goods; europe; labels; consumers,,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,3
+36,77,Italian energy and water regulator wanted to improve energy efficiency by exploring the opportunities offered by a better use of consumption data and better information for end users. How do individuals react to the different types of feedback they receive?,"To improve energy consumption efficiency through better consumption data and better information for the end-user, that would increase their awareness on what they are paying for",0,1,1,0,0,0,0,2,HIGH,0,LOW,"Provide feedback;
+Present info figuratively;
+Use triggers;
+(Continuous feedback from smart metre and app) ",Information - electronic; Individual based; gamification,better,"Feedback processes;
+Emotion; (loss aversion)
+Intention;",low,access and observation of feedback; monitoring behavior; experiment might be generalizing a bit too much since most folks don't actively monitor their dishwasher or other appliances,energy; consumers; feedback,,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,3
+37,77,Italian energy and water regulator wanted to improve energy efficiency by exploring the opportunities offered by a better use of consumption data and better information for end users. How do individuals react to the different types of feedback they receive?,"To improve energy consumption efficiency through better consumption data and better information for the end-user, that would increase their awareness on what they are paying for",0,1,1,0,0,0,0,2,HIGH,0,LOW,"Provide feedback;
+Make it salient;
+Use triggers;
+(in monetary cost not energy used)",Information - electronic; Individual based; gamification,better,"Feedback processes;
+Emotion; (loss aversion)
+Intention;",low,feedback from institution; relatable feedback for users,energy; consumers; feedback,,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,3
+38,77,Italian energy and water regulator wanted to improve energy efficiency by exploring the opportunities offered by a better use of consumption data and better information for end users. How do individuals react to the different types of feedback they receive?,"To improve energy consumption efficiency through better consumption data and better information for the end-user, that would increase their awareness on what they are paying for",0,1,1,0,0,0,0,2,HIGH,0,LOW,"Provide feedback;
+Make it salient;
+Evoke emotions;
+Validate actions;
+(on past poor performance & inefficent use from last cycle)",Information - electronic; Individual based; gamification,better,"Feedback processes;
+Emotion; (loss aversion)",low,discrete feedback when it is expected from institution they would expect to get that information,energy; consumers; feedback,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,4
+39,77,Italian energy and water regulator wanted to improve energy efficiency by exploring the opportunities offered by a better use of consumption data and better information for end users. How do individuals reach to the different types of feedback they receive?,"To improve energy consumption efficiency through better consumption data and better information for the end-user, that would increase their awareness on what they are paying for",0,1,1,0,0,0,0,2,HIGH,0,LOW,"Provide feedback;
+Tell or show what others do;
+Validate actions;
+Evoke emotions;
+
+(if user received comparison with worse performance, then user performs worse)",Information - electronic; Individual based; gamification,worse,"Feedback processes;
+Norms;
+Knowledge;",low,figure out if performance is better or worse than the average; and if the goal is to maintain behavior (better than average) or change behavior toward comparison (worse than average),energy; consumers; feedback,,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,4
+40,79,Adoption of clean-power plan from customers of energy,Increase adoption of clean-power plan,1,0,0,0,1,0,0,1,LOW,1,LOW,"Set goals;
+Require action;
+Selectively present choices;
+
+(Prompting users to select a plan rather than defaulting users into plan)",Information - electronic; Information - paper; Individual based,unsure,"Behavioral cueing; 
+",low,enrolling into an energy plan; starting a new thing; or reminding existing customers,energy; renewable; selection; plan,,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3
+41,79,Adoption of clean-power plan from customers of energy,Increase adoption of clean-power plan,1,0,0,0,1,0,0,1,LOW,1,LOW,"Require action;
+(default - automatically enrolled into clean-energy plans)",Information - electronic; Individual based,better,"Memory, attention, decision processes (defaults)",low,enrolling into an energy plan; starting a new thing; or reminding existing customers,energy; renewable; selection; plan,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+42,79,Evaluate homeowners and home buyers home's for energy-efficiency,Increase homeowners and home buyers knowledge of energy efficiency of the home,0,0,0,1,1,0,0,0,LOW,2,HIGH,"Make it salient;
+Present info figuratively;
+Present possible consequences;
+Set standards;
+
+(Scaled comparison; homes energy-efficiency profile (1-10))",Information - electronic; Information - paper; Individual based,unsure,"Knowledge;
+Beliefs about consequences;",low,comparison; buying or evaluating; marketability; comparison,energy; homes; comparison;,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,4
+43,80,Purchasing more energy efficient appliances,To test whether the way energy efficiency is present impacts major appliance purchase choice,0,0,0,0,1,0,0,0,LOW,1,LOW,"Provide guidance;
+Present possible consequences;
+Make it salient;
+Present info figuratively;
+
+(Included monetary lifetime running costs on EU appliance energy labels)",Information - printed material; Individual based; Push; (labels),better,"Knowledge;
+Beliefs about consequences;",low,purchasing; comparisons; salience; ,energy; appliances; selection,,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,4
+44,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide guidance;
+
+(energy efficiency advice)",Information - electronic; Individual-based; Push;,no difference,Knowledge,low,information seeking; ,energy; use; customer,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+45,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide guidance;
+Provide feedback;
+Set standards;
+
+(historic energy consumption information and comparison of energy consumption with earlier periods)",Information - electronic; Individual-based; Push;,no difference,"Feedback processes;
+Norms;
+General attitudes and beliefs;
+
+(status quo bias, attitude-behavior gaps, and framing effects)",low,information seeking,energy; use; customer,,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+46,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide feedback;
+Tell or show what others do;
+Set standards;
+
+(benchmarking of the customer's consumption against the consumption of comparable households)",Information - electronic; Individual-based,Better,"Norms;
+Feedback processes;
+",low,social comparison; information seeking,energy; use; customer,,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3
+47,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Enhance commitment;
+",Information - electronic; Individual-based; Pull;,No difference,"Goals;
+Intention;
+",low,commitment,energy; use; customer,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+48,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide feedback;
+
+(smart electricity and gas meters)",Information - electronic; Environmental Change; Individual-based; Push,Better,Feedback processes; Knowledge,low,"Use with any of the other interventions; especially with real-time displays; salient, fequent and accurate; continuous behavior",energy; use; customer,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+49,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide feedback;
+Use triggers;
+
+(real-time display (RTD) devices that show energy use including audible usage reduction alarms)",Information - electronic; Environmental Change; Information - audible; Individual based; Push,Better,Feedback processes; Knowledge; Behavioral cueing,low,"salient, fequent and accurate; continuous behavior",energy; use; customer,,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2
+50,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Require action;
+
+(control of heating and hot water integrated with RTDs)",Information - electronic; Individual-based; Environmental Change;,No difference,"Memory, attention, and decision-processes",low,able to control use,energy; use; customer,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+51,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide reward;
+
+(Financial incentives including variable tariffs to either reduce consumption or shift energy use from periods of peak demand to periods of lower demand)",Information - electronic; Individual-based; Push;,Unsure,Intention; Motivation; ,low,change behavior immediately,energy; use; customer,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+52,81,smart meters and use for feedback to energy consumers,To study the applications of behavioral insights to the roll-out of smart meters,0,0,1,0,0,0,0,1,LOW,0,LOW,"Provide guidance;
+Present figuratively;
+Make it salient;
+
+(Other digital media for delivering information like web and TV)",Information - electronic; Group-based; Push,No difference,Knowledge,low,increase salience;,energy; use; customer,,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2
+53,84,Label designs affect consumer understanding,To discover how the provision of online information on energy performance of household appliances can be improved to promote energy efficient product choices; how can the current full energy efficiency label be simplified and adapted to contexts with limited information space while retaining its effectiveness?,0,0,0,0,1,0,0,0,LOW,1,LOW,"Present info figuratively;
+Set standards;
+
+(Class-only label: shows a letter grade representing the energy efficiency of the product)",Information - electronic; Individual based,better,"Knowledge; Memory, attention, and decision-processes
+
+(information effect; label effect; reduced label effect; decision-stage effect; order effect)",low,great to use when later in the decision-making process; time; ,product; selection; appliances; buying; consumers,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+54,84,Label designs affect consumer understanding,To discover how the provision of online information on energy performance of household appliances can be improved to promote energy efficient product choices; how can the current full energy efficiency label be simplified and adapted to contexts with limited information space while retaining its effectiveness?,0,0,0,0,1,0,0,0,LOW,1,LOW,"Selectively present choices;
+Set standards;
+Present info figuratively;
+
+(meaning effect - adding textual or visual meaning to the reduced class-only label improves its effectiveness)",Information - electronic; Individual based; Push,No difference,"Knowledge; Memory, attention, and decision-processes
+
+(information effect; label effect; reduced label effect; decision-stage effect; order effect)",low,not much better than control at various stages of selection (early set selection and final product selection),product; selection; appliances; buying; consumers,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3
+55,84,Label designs affect consumer understanding,To discover how the provision of online information on energy performance of household appliances can be improved to promote energy efficient product choices; how can the current full energy efficiency label be simplified and adapted to contexts with limited information space while retaining its effectiveness?,0,0,0,0,1,0,0,0,LOW,1,LOW,"Selectively present choices;
+Set standards;
+Present info figuratively;
+
+(frame of reference effect - adding a frame of reference to the reduced (class-only) label improves its effectiveness, particularly in the final choice stage)",Information - electronic; Individual based; Push,better,"Knowledge; Memory, attention, and decision-processes
+
+(information effect; label effect; reduced label effect; decision-stage effect; order effect)",low,great to use when benchmarking different products in the set formation stage (early in the selection); use this technique early in decision-making process; time,product; selection; appliances; buying; consumers,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,3
+56,84,Label designs affect consumer understanding,To discover how the provision of online information on energy performance of household appliances can be improved to promote energy efficient product choices; how can the current full energy efficiency label be simplified and adapted to contexts with limited information space while retaining its effectiveness?,0,0,0,0,1,0,0,0,LOW,1,LOW,"Selectively present choices;
+Consider messenger;
+Set standards;
+Present info figuratively;
+
+(meaning effect and frame of reference effect; using a visual depiction of the environmental efficiency using an increasing scale of green leafs (1 - 5 leaves))",Information - electronic; Individual based,No difference,"Knowledge; Memory, attention, and decision-processes;
+
+(information effect; label effect; reduced label effect; decision-stage effect; order effect)",low,not much better than control at various stages of selection (early set selection and final product selection),product; selection; appliances; buying; consumers,,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,4
+57,95,fisheries management and allocation decision to local fisher and community levels to improve fisheries management,identify common pathways to establishing and implementing managed access with reserves ,1,1,1,1,0,0,0,3,HIGH,1,LOW,"Provide Punishment; Help construct self-image; Consider messenger; Present possible consequences; Provide guidance; Enhance commitment; Set goals; Impose expectations; Set standards;
+
+(Implementation of conservation units: Management council; Management agreement; Participative management plan; Fishing Agreements; planning (fishing exclusion zone); Participatory planning and prioritization of actions; Ecological-Economic Zoning - rules of land and sea use; Fishing forums to organize discussion and deliberate on recommendations)",Group-based; Pull; Interactional; Information - Human interactional,better,Subjective norms; Social learning and imitation; Social/professional role and identity; Social influences; Goals;,high,setting up a system for cooperation at a community level; very intensive; long-standing relationships; shared resource management; governing the commons; ,fishery; the commons; government; systems; cooperation,changing conditions for systems level change of behavior,0,1,1,1,1,0,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,9
+58,95,fisheries management and allocation decision to local fisher and community levels to improve fisheries management,identify common pathways to establishing and implementing managed access with reserves ,1,1,1,1,0,0,0,3,HIGH,1,LOW,"Set goals; Provide feedback; Provide guidance; Impose expectations; Help construct self-image; Enhance commitment; 
+
+(socialization, data collection, setting of goals, establishment of community group; partnership proposal; signing and reporting; assistance to community group; capacity building, economic improvement; landscape analysis or stakeholder mapping to understand the decision-making process; communication; adaptability and flexibility to opportunities and challenges)",Information - Human interactional; Group based; Interactional; ,better,"Goals; Intention; Knowledge; Memory, attention, and decision-processes; motivation; social influences; social/professional role and identity;",high,setting up a system for cooperation at a community level; very intensive; long-standing relationships; shared resource management; governing the commons; ,fishery; the commons; government; systems; cooperation,,0,1,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+59,95,fisheries management and allocation decision to local fisher and community levels to improve fisheries management,identify common pathways to establishing and implementing managed access with reserves; lack of management activities,1,1,1,1,0,0,0,3,HIGH,1,LOW,"Set goals; Provide feedback; Provide guidance; Enhance commitment; Help construct self-image; Impose expectations; Provide punishment; Consider messenger;
+
+(legal authority to the MB to design and enforce fishing regulations responsible for communication, management, organize, plan and collect information, funding, manage trust; harmonize local ordinances with national laws; continuing support of local leaders; support and engagement of the local communities and fishers; forming alliances among local stakeholders; networking and engagement with policymakers at all levels of government)",Information - Human interactional; Group based; Interactional; ,better,"Goals; Intention; Knowledge; Memory, attention, and decision-processes; motivation; social influences; social/professional role and identity; Values",high,setting up a system for cooperation at a community level; very intensive; long-standing relationships; shared resource management; governing the commons; ,fishery; the commons; government; systems; cooperation,"legal frameworks in the Philippines provided the foundations for the adoption of MA+R, operationalization of such at local level required some level of adjustment, negotiation, and compromise. Translating laws required consultation, partnership building, groundwork, and awareness building. Community organizing efforts, identifying and training local community champions, and social marketing approaches",0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,7
+60,105,using behavioral insights to increase water revenue in the recife metropolitan region,To identify opportunities for behavior change in order to reduce non-revenue water,0,1,1,1,0,0,0,2,HIGH,1,LOW,"Make it simple; (payment systems)
+Set goals;
+Use triggers;
+Divert action; (stop tapping water sources)
+
+(Reminders for payment)",Individual-based; Information - electronic; ,unsure,"Knowledge; Goals; Memory, attention, and decision-processes",low,people want to do a behavior but are unsure how to complete it,payment; water; decrease usage; reminder,,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,0,0,6,1,0,1,0,1,4,4,0,1,0,1,1,1,0,5,2,3,4,0,0,
